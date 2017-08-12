@@ -1,3 +1,3 @@
 # fortunecat
 flow
-test git
+test git study
